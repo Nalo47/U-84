@@ -1,1 +1,2 @@
-# U-84 Takımı
+# Takım İsmi
+U-84 Takımı
