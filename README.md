@@ -6,7 +6,7 @@ U-84 Takımı
 - Sercan Ümit Öner : Developer
 - Hakkı Enes Yılmaz : Developer
 - Nalin Dora :Scrum Master / Developer
-- Yusuf Poyraz : Product Owner / Developer
+- Yusuf Poyraz:Product Owner/Developer
 
 # Ürün İsmi (Oyun);
 -
