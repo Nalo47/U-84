@@ -31,9 +31,35 @@ https://trello.com/invite/b/TB6ADD1i/ATTI46418376dc6cac35ca7100f4649235db34E4F4F
 ✓ Korkuların nedeni bellidir, Kaygıların ki ise belirsiz. Bunlardan doğan KÂBUSLAR ise kaçınılmaz görünür, hâlbuki kâbusu var eden de yok eden de bizden başkası değildir.
 # Sprint 1
 - 1.Sprint boyunca tamamlanması gereken puan 100’dür.
--Puanlama Mantığı: Proje boyunca toplamda 350 puanlık backlog bulunmaktadır. Puanlar sprintlere bölünmüştür.
--1.Sprint 100 puan, 2.Sprint 120 puan, 3.Sprint 130 puan olacak şekilde puanlar bölüştürülmüştür.
--Daily Scrum: Görüşmeler Slack , Discord, Whatsapp ve Zoom da yapılmıştır.
--İlk hafta; 2 Günde bir Discord sesli toplantı yapıldı ve her gün whatsapp’dan haberleşmeye çalışıldı.
--İkinci hafta; Hafta içerisinde 1 gün hariç her gün Discord da sesli toplantı yapıldı. Her gün yine Whatsapp’dan haberleşmeye çalışıldı.
--Daily Scrum Dosyası :
+- Puanlama Mantığı: Proje boyunca toplamda 350 puanlık backlog bulunmaktadır. Puanlar sprintlere bölünmüştür.
+- 1.Sprint 100 puan, 2.Sprint 120 puan, 3.Sprint 130 puan olacak şekilde puanlar bölüştürülmüştür.
+- Daily Scrum: Görüşmeler Slack , Discord, Whatsapp ve Zoom da yapılmıştır.
+- İlk hafta; 2 Günde bir Discord sesli toplantı yapıldı ve her gün whatsapp’dan haberleşmeye çalışıldı.
+- İkinci hafta; Hafta içerisinde 1 gün hariç her gün Discord da sesli toplantı yapıldı. Her gün yine Whatsapp’dan haberleşmeye çalışıldı.
+- Daily Scrum Dosyası :[Daily Scrum.docx](https://github.com/Nalo47/U-84/files/11783232/Daily.Scrum.docx)
+- Sprint board: 1.Sprint board Ekran görüntüleri
+![trello](https://github.com/Nalo47/U-84/assets/129545778/7d3179de-fddc-4de1-a236-bd8a918e34d3)
+- Ürün Durumu: Ekran görüntüleri:
+![WhatsApp Image 2023-06-19 at 04 31 03 (1)](https://github.com/Nalo47/U-84/assets/129545778/3071b3eb-0b71-4863-acf5-b0dd03a055b7)
+![WhatsApp Image 2023-06-19 at 04 31 01 (2)](https://github.com/Nalo47/U-84/assets/129545778/7776e7f8-951e-416a-a0f0-1aac8fe92efa)
+![WhatsApp Image 2023-06-19 at 04 31 05](https://github.com/Nalo47/U-84/assets/129545778/0acb4e06-3764-4d19-a86e-6be83ba5910f)
+![WhatsApp Image 2023-06-19 at 04 31 03 (2)](https://github.com/Nalo47/U-84/assets/129545778/322da18a-be4f-40af-b20a-c4e5c13ec206)
+![WhatsApp Image 2023-06-19 at 04 31 03](https://github.com/Nalo47/U-84/assets/129545778/71712a1e-db89-4998-90e2-9098bd425839)
+![vv](https://github.com/Nalo47/U-84/assets/129545778/7d82e7df-150e-495b-8643-e81bbbacafc1)
+# Sprint Review:
+- Oyun fikri bulma aşamasında herkes kendi fikrini özgürce sundu. Ardından fikirler üzerine konuşuldu. Oyun teması belirlenmesinde oylama yapıldı, oylama sonrası temalar üzerinden farklı oyun fikirleri geliştirildi ve beyin fırtınası yapıldı, en sonunda bir oyun fikrine karar verildi.
+- Oyun temasında hikâyeleştirme azaltılmaya, oyunlaştırma arttırılmaya çalışıldı.
+- Gerçek üstü bir level tasarımı olmasına kararı verildi.
+- Can barı özelliği eklendi.
+- Level sonu düşen özel itemler ekledi.
+- Oyun başındaki diyalog kaldırıldı (oyun hikâye anlatım tarzı değiştirildi).
+# Sprint Retrospective:
+Neleri iyi yaptık;
+- Birbirimizin fikirlerine saygı ve değer verdik bu sayede fikir açısından çok zengin bir ortam oluştu.
+- Düzenli toplantılar gerçekleştirildi, planlıydı, demokratikti.
+- Birbirimizi tanıdık (görüntülü konuştuk ve birbirimizin simasını tanıdık, beraber oyun oynadık)
+Neler daha iyi olabilirdi;
+- Fikirler arasında uzunca beyin fırtınası yapıldı. Toplantılar çokça uzadı(toplantı zamanı daha iyi yönetilebilirdi).
+- Fikir de çok durduk en büyük etkeni de ilk hafta bulunduğumuz yoğunluktu.
+-1.Sprintte planlama, yoğunluktan ve ilk deneyimden dolaylı daha gelişigüzeldi bu yüzden 2.ve 3. Sprint de daha düzenli ve planlı bir program gerçekleştirilecek.
+
