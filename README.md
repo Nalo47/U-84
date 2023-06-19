@@ -27,8 +27,7 @@ https://trello.com/invite/b/TB6ADD1i/ATTI46418376dc6cac35ca7100f4649235db34E4F4F
 
 # Hedef Kitle
 - Rüyalar ve kâbuslarla ilgili olan oyunumuzun hedef kitlesi; Gençlik ve yetişkinlik yaşları aralığındaki oyuncuları kapsamaktadır. Bu yaş aralığı, 13 ila 35 yaş arasında değişen oyunculardır.
-# NOTLAR 
-✓ Korkuların nedeni bellidir, Kaygıların ki ise belirsiz. Bunlardan doğan KÂBUSLAR ise kaçınılmaz görünür, hâlbuki kâbusu var eden de yok eden de bizden başkası değildir.
+
 # Sprint 1
 - 1.Sprint boyunca tamamlanması gereken puan 100’dür.
 - Puanlama Mantığı: Proje boyunca toplamda 350 puanlık backlog bulunmaktadır. Puanlar sprintlere bölünmüştür.
@@ -62,4 +61,5 @@ Neler daha iyi olabilirdi;
 - Fikirler arasında uzunca beyin fırtınası yapıldı. Toplantılar çokça uzadı(toplantı zamanı daha iyi yönetilebilirdi).
 - Fikir de çok durduk en büyük etkeni de ilk hafta bulunduğumuz yoğunluktu.
 -1.Sprintte planlama, yoğunluktan ve ilk deneyimden dolaylı daha gelişigüzeldi bu yüzden 2.ve 3. Sprint de daha düzenli ve planlı bir program gerçekleştirilecek.
-
+# 1.Sprint Notu
+✓ Korkuların nedeni bellidir, Kaygıların ki ise belirsiz. Bunlardan doğan KÂBUSLAR ise kaçınılmaz görünür, hâlbuki kâbusu var eden de yok eden de bizden başkası değildir.
