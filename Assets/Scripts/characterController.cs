@@ -4,7 +4,8 @@ public class characterController : MonoBehaviour
 {
     [Header("Metrics")]
     public float damp;
-    [Range(1, 20)] public float rotationSpeed;
+    [Range(1, 20)]
+    public float rotationSpeed;
     float normalFov;
     public float sprintFov;
 
@@ -12,18 +13,26 @@ public class characterController : MonoBehaviour
     private float inputY;
     public Transform model;
     private Animator _anim;
+    private Rigidbody _rb;
     private Vector3 stickDirection;
     private Camera mainCam;
-    
+
     float maxSpeed;
     public KeyCode sprintButton = KeyCode.LeftShift;
     public KeyCode walkButton = KeyCode.C;
+    public KeyCode jumpButton = KeyCode.Space;
+
+    bool canJump = true; 
+    public float jumpCooldown = 1.2f; 
+
     void Start()
     {
+        _rb = GetComponent<Rigidbody>();
         _anim = GetComponent<Animator>();
         mainCam = Camera.main;
         normalFov = mainCam.fieldOfView;
     }
+
     void LateUpdate()
     {
         inputMove();
@@ -33,7 +42,7 @@ public class characterController : MonoBehaviour
 
     void inputMove()
     {
-        _anim.SetFloat("speed", Vector3.ClampMagnitude(stickDirection, maxSpeed).magnitude,damp,Time.deltaTime*10);
+        _anim.SetFloat("speed", Vector3.ClampMagnitude(stickDirection, maxSpeed).magnitude, damp, Time.deltaTime * 10);
     }
 
     void inputRotation()
@@ -42,17 +51,18 @@ public class characterController : MonoBehaviour
         rotOfset.y = 0;
         model.forward = Vector3.Slerp(model.forward, rotOfset, Time.deltaTime * rotationSpeed);
     }
-    void movement() 
+
+    void movement()
     {
         stickDirection = new Vector3(inputX, 0, inputY);
-        if (Input.GetKey(sprintButton)) 
+        if (Input.GetKey(sprintButton))
         {
-            mainCam.fieldOfView = Mathf.Lerp(mainCam.fieldOfView, sprintFov,Time.deltaTime*2);
+            mainCam.fieldOfView = Mathf.Lerp(mainCam.fieldOfView, sprintFov, Time.deltaTime * 2);
             maxSpeed = 2;
-            inputX = 2 *Input.GetAxis("Horizontal");
-            inputY = 2 *Input.GetAxis("Vertical");
+            inputX = 2 * Input.GetAxis("Horizontal");
+            inputY = 2 * Input.GetAxis("Vertical");
         }
-        else if(Input.GetKey(walkButton))
+        else if (Input.GetKey(walkButton))
         {
             mainCam.fieldOfView = Mathf.Lerp(mainCam.fieldOfView, normalFov, Time.deltaTime * 2);
             maxSpeed = 0.2f;
@@ -66,5 +76,33 @@ public class characterController : MonoBehaviour
             inputX = Input.GetAxis("Horizontal");
             inputY = Input.GetAxis("Vertical");
         }
+
+        // Zıplama kontrolü
+        if (canJump && Input.GetKeyDown(jumpButton))
+        {
+            Jump();
+        }
+    }
+
+    void Jump()
+    {
+      //  _anim.SetTrigger("Jump");  Zıplama animasyonu trigger
+        _rb.AddForce(Vector3.up * 5, ForceMode.Impulse); 
+        canJump = false; 
+        Invoke(nameof(ResetJump), jumpCooldown); //resetjump icin bekleme suresi
+    }
+
+    void ResetJump()
+    {
+        canJump = true; 
+    }
+
+    void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            canJump = true; 
+        }
     }
 }
+ 
