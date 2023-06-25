@@ -6,6 +6,9 @@ public class weaponController : MonoBehaviour
 {
     private bool isStrafe = false;
     private Animator _anim;
+
+    public GameObject handSword;
+    public GameObject backSword;
     void Start()
     {
         _anim = GetComponent<Animator>();
@@ -28,5 +31,19 @@ public class weaponController : MonoBehaviour
         {
             GetComponent<characterController>().hareketTipi = characterController.MovementType.Directional;
         }
+
+        void equip()
+        {
+            backSword.SetActive(false);
+            handSword.SetActive(true);
+        }
+
+        void unequip()
+        {
+            backSword.SetActive(true);
+            handSword.SetActive(false);
+        }
+        
+        
     }
 }
