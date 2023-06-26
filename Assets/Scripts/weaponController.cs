@@ -22,7 +22,7 @@ public class weaponController : MonoBehaviour
     void Update()
     {
         _anim.SetBool("iS", isStrafe);
-        if (Input.GetKeyDown(KeyCode.F))
+        if (Input.GetKeyDown(KeyCode.F) && _anim.GetBool("isAttack")==false)
         {
             isStrafe = !isStrafe;
         }
