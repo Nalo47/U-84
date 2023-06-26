@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class weaponController : MonoBehaviour
 {
+    public GameObject trails;
+    
+    private bool canAttack = true;
     private bool isStrafe = false;
     private Animator _anim;
 
@@ -12,6 +15,7 @@ public class weaponController : MonoBehaviour
     void Start()
     {
         _anim = GetComponent<Animator>();
+        trailClose();
     }
 
     // Update is called once per frame
@@ -23,27 +27,46 @@ public class weaponController : MonoBehaviour
             isStrafe = !isStrafe;
         }
 
+        if (Input.GetKeyDown(KeyCode.Mouse0) && isStrafe == true && canAttack == true)
+        {
+            _anim.SetTrigger("Saldır");
+        }
+        
         if (isStrafe == true)
         {
             GetComponent<characterController>().hareketTipi = characterController.MovementType.Strafe;
+            GetComponent<IKLook>().azal();
         }
         if (isStrafe == false)
         {
             GetComponent<characterController>().hareketTipi = characterController.MovementType.Directional;
+            GetComponent<IKLook>().art();
         }
+    }
+    void equip()
+    {
+        backSword.SetActive(false);
+        handSword.SetActive(true);
+    }
+    void unequip()
+    {
+        backSword.SetActive(true);
+        handSword.SetActive(false);
+    }
 
-        void equip()
+    public void trailOpen()
+    {
+        for (int i = 0; i < trails.transform.childCount; i++)
         {
-            backSword.SetActive(false);
-            handSword.SetActive(true);
+            trails.transform.GetChild(i).gameObject.GetComponent<TrailRenderer>().emitting = true;
         }
+    }
 
-        void unequip()
+    public void trailClose()
+    {
+        for (int i = 0; i < trails.transform.childCount; i++)
         {
-            backSword.SetActive(true);
-            handSword.SetActive(false);
+            trails.transform.GetChild(i).gameObject.GetComponent<TrailRenderer>().emitting = false;
         }
-        
-        
     }
 }
