@@ -100,7 +100,8 @@ Neler daha iyi olabilirdi;
 -	Oyun stili görüntüsü konusunda bir tık kararsız kalındı.
 -	Karakter tasarımının geliştirilme kısmı diğer sprinte bırakıldı.
 -	Bayram tatilinin verdiği yoğunluk sebebiyle toplantı ve çalışma ilerleyişimiz bir tık etkilendi.
-
+# Product Backlog URL
+-https://trello.com/invite/b/TB6ADD1i/ATTI46418376dc6cac35ca7100f4649235db34E4F4FC/u-84
 
 
 
