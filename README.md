@@ -78,6 +78,29 @@ Neler daha iyi olabilirdi;
 -![7b5a0d6f-2f91-4cf1-98d7-f08fc89e7461](https://github.com/Nalo47/U-84/assets/129545778/4dc4d66c-27ec-44e1-aacd-68e4ccf66d92)
 -![81d83747-da02-4354-9a0c-c0297a8435bc](https://github.com/Nalo47/U-84/assets/129545778/9a4e7b02-33c8-4a5c-84d2-c6bc792ca999)
 -![c6c15757-bc55-46e7-80be-d648ebef9205](https://github.com/Nalo47/U-84/assets/129545778/d124bb25-0a7f-4083-b441-8004606ee422)
+-![d21376ae-6fb8-4555-aad0-da7451c94b50](https://github.com/Nalo47/U-84/assets/129545778/c7e092ab-a1a9-4b9f-8ebe-016d1302719b)
+-![9734dff1-8901-41e0-8146-7bab0830cc3b](https://github.com/Nalo47/U-84/assets/129545778/6357e153-8dc3-4bbe-a3ab-ea95fd61b38f)
+# 2.Sprint Notu;
+✓ Rüyalara giriş-çıkış yapılan Bilinç boşluğunun tasarımında Ömer Hayyamın "Evren senin içinde , ve sen evrensin " sözünden ilham alınmıştır.
+
+# Sprint Review : 
+-	Rüyalara giriş yapılan “Bilinç Boşluğu” menüsü tasarlandı.
+-	1. ve 2. leveller tasarlandı.
+-	Npc’lerin(düşmanların) saldırı mekanizması yapıldı.
+-	Oyuncunun karakter tasarımları yapıldı, tasarımın geliştirilmesi diğer sprinte bırakıldı.
+-	Takım için logo tasarlandı.
+-	2.Leveldeki parkur alanı başka bir levele eklendi.
+-	Oyun için kullanılacak dizayn için referans assetler bulundu.
+# Sprint Retrospective:
+Neleri iyi yaptık;
+-	Level tasarımlarını takımlara böldük bu şekilde çalışma karışıklığı olamamış oldu.
+-	Level takımları tasarım işlerinde görev paylaşımı yaptı.
+-	Developer takımı olarak sesli sunucuda hep beraber çalıştık.
+Neler daha iyi olabilirdi;
+-	Oyun stili görüntüsü konusunda bir tık kararsız kalındı.
+-	Karakter tasarımının geliştirilme kısmı diğer sprinte bırakıldı.
+-	Bayram tatilinin verdiği yoğunluk sebebiyle toplantı ve çalışma ilerleyişimiz bir tık etkilendi.
+
 
 
 
