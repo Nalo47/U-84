@@ -71,4 +71,17 @@ Neler daha iyi olabilirdi;
 - Sprint board: 2. Sprint board Ekran görüntüleri;
 ![treollo 2 sp](https://github.com/Nalo47/U-84/assets/129545778/20334278-b771-48fa-9f10-beb0ea71ef04)
 - Ürün Durumu: Ekran görüntüleri:
-- 
+- ![Ekran görüntüsü 2023-07-03 011022](https://github.com/Nalo47/U-84/assets/129545778/e6b81c58-814b-4c37-8672-8512e3753f27)
+-![09f46736-2a00-49d9-a850-3b42d77c9c25](https://github.com/Nalo47/U-84/assets/129545778/885e92ca-cdc6-42fa-b380-8e9af8d0a78c)
+-![3da7bd53-acd3-4170-8a46-8d42ffe978c5](https://github.com/Nalo47/U-84/assets/129545778/b3b214dd-abbc-454e-a779-e1f5a0ad841d)
+-![644690d1-b5d2-4e5d-a222-66e7b675d190](https://github.com/Nalo47/U-84/assets/129545778/958b4282-a344-45d1-85c3-37dcd6cad4a8)
+-![7b5a0d6f-2f91-4cf1-98d7-f08fc89e7461](https://github.com/Nalo47/U-84/assets/129545778/4dc4d66c-27ec-44e1-aacd-68e4ccf66d92)
+-![81d83747-da02-4354-9a0c-c0297a8435bc](https://github.com/Nalo47/U-84/assets/129545778/9a4e7b02-33c8-4a5c-84d2-c6bc792ca999)
+-![c6c15757-bc55-46e7-80be-d648ebef9205](https://github.com/Nalo47/U-84/assets/129545778/d124bb25-0a7f-4083-b441-8004606ee422)
+
+
+
+
+
+
+
