@@ -93,12 +93,11 @@ Neler daha iyi olabilirdi;
 -	Oyun için kullanılacak dizayn için referans assetler bulundu.
 # Sprint Retrospective:
 Neleri iyi yaptık;
-
 -	Level tasarımlarını takımlara böldük bu şekilde çalışma karışıklığı olamamış oldu.
 -	Level takımları tasarım işlerinde görev paylaşımı yaptı.
 -	Developer takımı olarak sesli sunucuda hep beraber çalıştık.
-Neler daha iyi olabilirdi;
 
+Neler daha iyi olabilirdi;
 -	Oyun stili görüntüsü konusunda bir tık kararsız kalındı.
 -	Karakter tasarımının geliştirilme kısmı diğer sprinte bırakıldı.
 -	Bayram tatilinin verdiği yoğunluk sebebiyle toplantı ve çalışma ilerleyişimiz bir tık etkilendi.
