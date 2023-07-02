@@ -23,7 +23,7 @@ https://trello.com/invite/b/TB6ADD1i/ATTI46418376dc6cac35ca7100f4649235db34E4F4F
 -	Oynama Platformu: PC (Masaüstü veya Dizüstü Bilgisayar)
 -	Multiplayer: Oyun multiplayer değil (Oyunda çevrimiçi veya yerel çok oyunculu sistem özelliği yok).
 -	Oynun Dili: İngilizce
--	Oynama Alanı: Toplamda 5 rüya leveli, 1 Boss leveli olmak üzere; 6 oyun alanı var olacak.
+-	Oynama Alanı: Toplamda 3 rüya leveli, 1 Boss leveli olmak üzere; 4 oyun alanı var olacak.
 
 # Hedef Kitle
 - Rüyalar ve kâbuslarla ilgili olan oyunumuzun hedef kitlesi; Gençlik ve yetişkinlik yaşları aralığındaki oyuncuları kapsamaktadır. Bu yaş aralığı, 13 ila 35 yaş arasında değişen oyunculardır.
@@ -63,3 +63,4 @@ Neler daha iyi olabilirdi;
 -1.Sprintte planlama, yoğunluktan ve ilk deneyimden dolaylı daha gelişigüzeldi bu yüzden 2.ve 3. Sprint de daha düzenli ve planlı bir program gerçekleştirilecek.
 # 1.Sprint Notu
 ✓ Korkuların nedeni bellidir, Kaygıların ki ise belirsiz. Bunlardan doğan KÂBUSLAR ise kaçınılmaz görünür, hâlbuki kâbusu var eden de yok eden de bizden başkası değildir.
+----------------------------------------------------------------------
