@@ -85,7 +85,7 @@ Neler daha iyi olabilirdi;
 
 # Sprint Review : 
 -	Rüyalara giriş yapılan “Bilinç Boşluğu” menüsü tasarlandı.
--	1. ve 2. leveller tasarlandı.
+-	1.ve 2. leveller tasarlandı.
 -	Npc’lerin(düşmanların) saldırı mekanizması yapıldı.
 -	Oyuncunun karakter tasarımları yapıldı, tasarımın geliştirilmesi diğer sprinte bırakıldı.
 -	Takım için logo tasarlandı.
@@ -93,10 +93,12 @@ Neler daha iyi olabilirdi;
 -	Oyun için kullanılacak dizayn için referans assetler bulundu.
 # Sprint Retrospective:
 Neleri iyi yaptık;
+
 -	Level tasarımlarını takımlara böldük bu şekilde çalışma karışıklığı olamamış oldu.
 -	Level takımları tasarım işlerinde görev paylaşımı yaptı.
 -	Developer takımı olarak sesli sunucuda hep beraber çalıştık.
 Neler daha iyi olabilirdi;
+
 -	Oyun stili görüntüsü konusunda bir tık kararsız kalındı.
 -	Karakter tasarımının geliştirilme kısmı diğer sprinte bırakıldı.
 -	Bayram tatilinin verdiği yoğunluk sebebiyle toplantı ve çalışma ilerleyişimiz bir tık etkilendi.
