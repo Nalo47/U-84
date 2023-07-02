@@ -63,4 +63,12 @@ Neler daha iyi olabilirdi;
 -1.Sprintte planlama, yoğunluktan ve ilk deneyimden dolaylı daha gelişigüzeldi bu yüzden 2.ve 3. Sprint de daha düzenli ve planlı bir program gerçekleştirilecek.
 # 1.Sprint Notu
 ✓ Korkuların nedeni bellidir, Kaygıların ki ise belirsiz. Bunlardan doğan KÂBUSLAR ise kaçınılmaz görünür, hâlbuki kâbusu var eden de yok eden de bizden başkası değildir.
-----------------------------------------------------------------------
+
+# Sprint 2
+- Sprint içinde tamamlanması gereken puan 120 Puandır.
+- Daily Scrum: Daily Scrum toplantıları Whatsapp ve Discordan yapılmaya devam edildi.
+-Daily Scrum dosyası : [2.sprint daily scrum.docx](https://github.com/Nalo47/U-84/files/11931556/2.sprint.daily.scrum.docx)
+- Sprint board: 2. Sprint board Ekran görüntüleri;
+![treollo 2 sp](https://github.com/Nalo47/U-84/assets/129545778/20334278-b771-48fa-9f10-beb0ea71ef04)
+- Ürün Durumu: Ekran görüntüleri:
+- 
