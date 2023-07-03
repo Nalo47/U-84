@@ -81,7 +81,7 @@ Neler daha iyi olabilirdi;
 -![d21376ae-6fb8-4555-aad0-da7451c94b50](https://github.com/Nalo47/U-84/assets/129545778/c7e092ab-a1a9-4b9f-8ebe-016d1302719b)
 -![9734dff1-8901-41e0-8146-7bab0830cc3b](https://github.com/Nalo47/U-84/assets/129545778/6357e153-8dc3-4bbe-a3ab-ea95fd61b38f)
 # 2.Sprint Notu;
-✓ Rüyalara giriş-çıkış yapılan Bilinç boşluğunun tasarımında Ömer Hayyamın "Evren senin içinde , ve sen evrensin " sözünden ilham alınmıştır.
+✓ Rüyalara giriş-çıkış yapılan Bilinç boşluğunun tasarımında; Ömer Hayyamın "Evren senin içinde , ve sen evrensin " sözünden ilham alınmıştır.
 
 # Sprint Review : 
 -	Rüyalara giriş yapılan “Bilinç Boşluğu” menüsü tasarlandı.
