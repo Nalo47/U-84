@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class characterController : MonoBehaviour
@@ -22,7 +23,8 @@ public class characterController : MonoBehaviour
     public KeyCode walkButton = KeyCode.C;
    // public KeyCode jumpButton = KeyCode.Space;
 
-   // bool canJump = true; 
+   bool canJump = true; 
+   public float jumpForce = 3;
    // public float jumpCooldown = 1.2f;
 
     public enum MovementType
@@ -110,13 +112,12 @@ public class characterController : MonoBehaviour
                 inputX = Input.GetAxis("Horizontal");
                 inputY = Input.GetAxis("Vertical");
             }
-
-            /* Zıplama kontrolü
-            if (canJump && Input.GetKeyDown(jumpButton))
+            
+            if (canJump && Input.GetKeyDown(KeyCode.Space))
             {
-                Jump();
+                _anim.SetTrigger("jump");
+                jump();
             }
-            */
         }
         
         
@@ -130,7 +131,21 @@ public class characterController : MonoBehaviour
         
     }
 
-   /* void Jump()
+    void jump()
+    {
+        canJump = false;
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            canJump = true;
+        }
+    }
+
+
+    /* void Jump()
     {
       //  _anim.SetTrigger("Jump");  Zıplama animasyonu trigger
         _rb.AddForce(Vector3.up * 5, ForceMode.Impulse); 
