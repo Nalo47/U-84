@@ -58,16 +58,22 @@ public class Düsman : MonoBehaviour
                 this.transform.LookAt(hedefOyuncu.transform.position);
                 düsmanNavMesh.isStopped = true;
                 düsmanAnim.SetBool("yuruyor", false);
+                if (düsmanHP > 20)
+                {
                 düsmanAnim.SetBool("saldiriyor", true);
+                }
 
                 //vurma animasyonu
             }
         }
     }
-
-    public void HasarVer()
+    private void OnTriggerEnter(Collider other)
     {
-       // hedefOyuncu.GetComponent<KarakterKontrol>().HasarAl(); //Dosya ismi değişecek
+        if (other.CompareTag("hit"))
+        {
+            Debug.Log("Rakibe vuruldu");
+            HasarAl();
+        }
     }
 
     IEnumerator YokOl()
@@ -77,6 +83,6 @@ public class Düsman : MonoBehaviour
     }
     public void HasarAl()
     {
-        düsmanHP -= Random.Range(15, 25);
+        düsmanHP -= Random.Range(5, 10);
     }
 }

@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - "D\xFCsman"
+  - Sword
+  - hit
   layers:
   - Default
   - TransparentFX
