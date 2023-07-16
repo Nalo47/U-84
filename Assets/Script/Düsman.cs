@@ -17,7 +17,7 @@ public class Düsman : MonoBehaviour
     void Start()
     {
         düsmanAnim = this.GetComponent<Animator>();
-        hedefOyuncu = GameObject.Find("Boss"); //Parantez içine karakter ismi girilcek
+        hedefOyuncu = GameObject.Find("Remy"); //Parantez içine karakter ismi girilcek
         düsmanNavMesh = this.GetComponent<NavMeshAgent>();
     }
 

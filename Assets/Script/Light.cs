@@ -1,21 +1,10 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Light : MonoBehaviour
 {
-    void Start()
-    {
-
-    }
-    void Update()
-    {
-
-    }
-
     private void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Ýnsan")
+        if (other.gameObject.CompareTag("Player"))
         {
             CoinText.coinAmount += 1;
             Destroy(gameObject);
