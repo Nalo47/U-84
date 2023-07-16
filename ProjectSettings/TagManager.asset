@@ -4,17 +4,16 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - "D\xFCsman"
-  - Sword
-  - hit
+  - Ground
+  - DeathZone
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - "D\xFCsman"
+  - groundLayer
   - Water
   - UI
-  - "D\xFCsmann"
+  - 
   - 
   - 
   - 
