@@ -90,6 +90,6 @@ Material:
     - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReflectionColor: {r: 0.44852942, g: 0.44852942, b: 0.44852942, a: 1}
-    - _ScrollColor: {r: 0.9150943, g: 0.081149824, b: 0.081149824, a: 1}
+    - _ScrollColor: {r: 0.64714336, g: 0, b: 1, a: 1}
     - _TintColor: {r: 0.4705882, g: 0.4705882, b: 0.4705882, a: 0.484}
   m_BuildTextureStacks: []
