@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class Light : MonoBehaviour
 {
+    internal int intensity;
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("Player"))

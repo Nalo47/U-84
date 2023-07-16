@@ -33,7 +33,7 @@ public class LanternController : MonoBehaviour
                 myLight.enabled = false;
                 flickerLight = false;
             }
-            else myLight.intensity = Mathf.MoveTowards(myLight.intensity, wantedLightIntencity, Time.deltaTime * 0.6f);
+            else myLight.intensity = (int)Mathf.MoveTowards(myLight.intensity, wantedLightIntencity, Time.deltaTime * 0.6f);
         }
     }
 
