@@ -52,9 +52,7 @@ public class FlickLight : MonoBehaviour
 
     private IEnumerator SmoothFLick()
     {
-        _flickIntensity = Mathf.Lerp (_flickIntensity, (Random.Range(min, max)), timer * Time.smoothDeltaTime);
-        lig.intensity = _flickIntensity;
-        lig.color = colorLight;
+        _flickIntensity = Mathf.Lerp(_flickIntensity, (Random.Range(min, max)), timer * Time.smoothDeltaTime);
         yield return new WaitForSeconds(smooth);
     }
 
