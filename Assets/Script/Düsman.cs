@@ -67,7 +67,7 @@ public class Düsman : MonoBehaviour
 
     public void HasarVer()
     {
-        hedefOyuncu.GetComponent<KarakterKontrol>().HasarAl(); //Dosya ismi değişecek
+       // hedefOyuncu.GetComponent<KarakterKontrol>().HasarAl(); //Dosya ismi değişecek
     }
 
     IEnumerator YokOl()
