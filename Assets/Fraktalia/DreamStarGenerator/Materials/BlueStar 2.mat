@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BlueStar
+  m_Name: BlueStar 2
   m_Shader: {fileID: 4800000, guid: 8fc35bcfc3cdcae4d9012b5e66fe320a, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
@@ -87,9 +87,9 @@ Material:
     - _UVSec: 0
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 0.21630868, g: 0.2264151, b: 0.14610182, a: 1}
+    - _Color: {r: 0.58823526, g: 0.24961226, b: 0.030276809, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _ReflectionColor: {r: 0.8301887, g: 0.640385, b: 0.27725163, a: 1}
-    - _ScrollColor: {r: 0.58431375, g: 0.21568625, b: 0.40416113, a: 1}
+    - _ReflectionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ScrollColor: {r: 0.06758219, g: 0.14392653, b: 0.9191176, a: 1}
     - _TintColor: {r: 0.4705882, g: 0.4705882, b: 0.4705882, a: 0.484}
   m_BuildTextureStacks: []
