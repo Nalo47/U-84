@@ -1,0 +1,28 @@
+# Blender MTL File: 'table.blend'
+# Material Count: 2
+
+newmtl Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump G:\\Мой диск\\models\\Furniture\\TABLE\\Table_6\\texture\\table_6_Material_Normal.png
+map_Kd G:\\Мой диск\\models\\Furniture\\TABLE\\Table_6\\texture\\table_6_Material_BaseColor.png
+map_Ns G:\\Мой диск\\models\\Furniture\\TABLE\\Table_6\\texture\\table_6_Material_Roughness.png
+refl G:\\Мой диск\\models\\Furniture\\TABLE\\Table_6\\texture\\table_6_Material_Metallic.png
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.006979 0.007942 0.009527
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump F:\\ART\\3D\\TEXTURES\\FLOOR\\TexturesCom_Marble_TilesDiamond_1K\\TexturesCom_Marble_TilesDiamond_1K_normal.tif
+map_Ns F:\\ART\\3D\\TEXTURES\\FLOOR\\TexturesCom_Marble_TilesDiamond_1K\\TexturesCom_Marble_TilesDiamond_1K_roughness.tif
