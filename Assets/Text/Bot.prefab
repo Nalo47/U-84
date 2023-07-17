@@ -83,7 +83,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
+  m_PresetInfoIsWorld: 1
 --- !u!114 &5269226581865995478
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '''''Collect the lights within the darkness'''''
+  m_text: '''''Search dream stone and find a way out'''''
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d1740b6bae3861f40a3cdbc544f962ef, type: 2}
   m_sharedMaterial: {fileID: -4035108761597396187, guid: d1740b6bae3861f40a3cdbc544f962ef, type: 2}
