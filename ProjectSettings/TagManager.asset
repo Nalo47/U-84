@@ -7,6 +7,8 @@ TagManager:
   - "D\xFCsman"
   - coin
   - text
+  - Sword
+  - hit
   layers:
   - Default
   - TransparentFX
