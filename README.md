@@ -148,26 +148,26 @@ Neler daha iyi olabilirdi;
 - Oyna; Boss ,Npc'ler ve itemler eklendi.
 - Oyun içi UI'lar eklendi.
 - 2.levele Labirent eklendi.
-- Oyun levellerinin Işık-Gölge ayarlamları yapıldı.
+- Oyun levellerinin Işık-Gölge ayarlamaları yapıldı.
 - Levleller test edildi, hatalar kontrol edildi.
 - Boss Asseti değiştirildi
 # Sprint Retrospective:
 Neleri iyi yaptık;
-- Son Sprint olamasından kaynaklı takımın iletişimi normale göre arttı.
+- Son Sprint olmasından kaynaklı takımın iletişimi normale göre arttı.
 - Teknik sıkıntılar çıktığında tüm takıma soruldu ve çözüm üretmek için çabalandı.
 - Bir görevde zorlanan biri olduğunda görevler değiş tokuş edildi veyahut takımca yardım edildi.
 - Oyun ve ilerleyiş ile ilgili bir karar veya değişiklik olacağında tüm takım bilgilendirildi , bu şekilde tüm bootcamp boyunca takımda demokratik bir ortam kök saldı.
 - Takımın birbiriyle kurduğu iletişim, nezaket ve saygı çerçevesinde ilerledi.
 
 Neleri daha iyi yapabilirdik;
-- Zaman daha iyi yönetilebilirdi. Sprint planlamsında tampon zaman aralıkları daha dengeli olabilirdi
-- Github Destop kullanımında daha dikkatli olunabilirdi. Pushlama da artan değişklik mikatrı ve verilen hatalar bir çok şeyi yeniden yapılmasına sebebiyet verdi.
-- Takımca oyun tasarlamanın dışında biraz daha buluşmalıydık, hepberaber oyun oynamak gibi.
+- Zaman daha iyi yönetilebilirdi. Sprint planlamasında tampon zaman aralıkları daha dengeli olabilirdi
+- Github Destop kullanımında daha dikkatli olunabilirdi. Pushlama da artan değişiklik miktarı ve verilen hatalar bir çok şeyi yeniden yapılmasına sebebiyet verdi.
+- Takımca oyun tasarlamanın dışında biraz daha buluşmalıydık, hep beraber oyun oynamak gibi.
 # Product Backlog URL
 -https://trello.com/invite/b/TB6ADD1i/ATTI46418376dc6cac35ca7100f4649235db34E4F4FC/u-84
 # 3.Sprint Notu;
-✓ "Her rüyanın içinde bir gerçeklik payı vardır , bir o kadar da gerçeklik dışı paya sahiptir. İşte bu sayede rüyalar, zıtlıkların beraberliği ile varolmuş gizemli bilinç ürünleridir." 
-Oynumuz DreaMare'de ilginç rüyaların içinde ki kâbusları göreceğiz. Herkes için kâbus kavramı farklıdır; kimileri karanlığı,bir başka kimileri ise zamanı kâbus edinir kendine ve daha nicesini. Gizem dolu rüyalarımıza; kâbuslar zamanla gelir gider ,yeterki rüyalarımızı mesken etmelerine izin vermeyelim.
-- Bootcamp sürecesi biz U-84'ü değiştirdi, dönüştürdü ve geliştirdi her şey için teşekkürler.
-  Şans Hepimizle Olsum :)
+✓ "Her rüyanın içinde bir gerçeklik payı vardır , bir o kadar da gerçeklik dışı paya sahiptir. İşte bu sayede rüyalar, zıtlıkların beraberliği ile var olmuş gizemli bilinç ürünleridir." 
+Oyunumuz DreaMare'de ilginç rüyaların içinde ki kâbusları göreceğiz. Herkes için kâbus kavramı farklıdır; kimileri karanlığı,bir başka kimileri ise zamanı kâbus edinir kendine ve daha nicesini. Gizem dolu rüyalarımıza; kâbuslar zamanla gelir gider ,yeter ki rüyalarımızı mesken etmelerine izin vermeyelim.
+- Bootcamp süresince biz U-84'ü değiştirdi, dönüştürdü ve geliştirdi her şey için teşekkürler.
+  Şans Hepimizle Olsun :)
 
