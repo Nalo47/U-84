@@ -167,7 +167,7 @@ Neleri daha iyi yapabilirdik;
 -https://trello.com/invite/b/TB6ADD1i/ATTI46418376dc6cac35ca7100f4649235db34E4F4FC/u-84
 # 3.Sprint Notu;
 ✓ "Her rüyanın içinde bir gerçeklik payı vardır , bir o kadar da gerçeklik dışı paya sahiptir. İşte bu sayede rüyalar, zıtlıkların beraberliği ile varolmuş gizemli bilinç ürünleridir." 
-Oynumuz DreaMare'de ilginç rüyalrın içinde ki kâbusları göreceğiz. Herkes için kâbus kavramı farklıdır; kimileri karanlığı,bir başka kimileri ise zamanı kâbus edinir kendine ve daha nicesini. Gizem dolu rüyalarımıza kâbuslar zamanla gelir gider ,yeterki rüyalarımızı mesken etmelerine izin vermeyelim.
+Oynumuz DreaMare'de ilginç rüyaların içinde ki kâbusları göreceğiz. Herkes için kâbus kavramı farklıdır; kimileri karanlığı,bir başka kimileri ise zamanı kâbus edinir kendine ve daha nicesini. Gizem dolu rüyalarımıza; kâbuslar zamanla gelir gider ,yeterki rüyalarımızı mesken etmelerine izin vermeyelim.
 - Bootcamp sürecesi biz U-84'ü değiştirdi, dönüştürdü ve geliştirdi her şey için teşekkürler.
   Şans Hepimizle Olsum :)
 
