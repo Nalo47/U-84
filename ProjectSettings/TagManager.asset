@@ -4,16 +4,17 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ground
-  - DeathZone
+  - "D\xFCsman"
+  - coin
+  - text
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - groundLayer
+  - "D\xFCsman"
   - Water
   - UI
-  - 
+  - "D\xFCsmann"
   - 
   - 
   - 
