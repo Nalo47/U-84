@@ -21,7 +21,7 @@ public class characterController : MonoBehaviour
     public KeyCode sprintButton = KeyCode.LeftShift;
     public KeyCode walkButton = KeyCode.C;
     public KeyCode jumpButton = KeyCode.Space;
-    public float jumpForce = 5f;
+    public float jumpForce = 11f;
     public enum MovementType
     {
         Directional,
