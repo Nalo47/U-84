@@ -6,6 +6,7 @@ TagManager:
   tags:
   - "D\xFCsman"
   - coin
+  - text
   layers:
   - Default
   - TransparentFX

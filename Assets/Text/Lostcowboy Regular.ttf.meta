@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 055dbd92bc8fc37419a5310e3f293d6c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lostcowboy Personal Use
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d01b01db904b82a46b718bc17660309d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
