@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - "D\xFCsman"
+  - coin
   layers:
   - Default
   - TransparentFX
