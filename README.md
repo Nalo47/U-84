@@ -1,4 +1,4 @@
-# Takım İsmi;
+![önemli](https://github.com/Nalo47/U-84/assets/129545778/87144c8f-2abd-41ea-8b9f-2ebab538ddb7)# Takım İsmi;
 Makara Game Studios (Takım U-84) :)
 # Takım Üyeleri;
 - Asım Mert Şahner : Developer
@@ -24,7 +24,6 @@ https://trello.com/invite/b/TB6ADD1i/ATTI46418376dc6cac35ca7100f4649235db34E4F4F
 -	Multiplayer: Oyun multiplayer değil (Oyunda çevrimiçi veya yerel çok oyunculu sistem özelliği yok).
 -	Oynun Dili: İngilizce
 -	Oynama Alanı: Toplamda 3 rüya leveli, 1 Boss leveli olmak üzere; 4 oyun alanı var olacak.
--	Oyunda Game Analitik bulunmaktadır.
 
 # Hedef Kitle
 - Rüyalar ve kâbuslarla ilgili olan oyunumuzun hedef kitlesi; Gençlik ve yetişkinlik yaşları aralığındaki oyuncuları kapsamaktadır. Bu yaş aralığı, 13 ila 35 yaş arasında değişen oyunculardır.
@@ -117,13 +116,13 @@ Neler daha iyi olabilirdi;
 # Sprint 3
 # Puan Tamamlama Mantığı;
 - Sprint içinde tamamlanması gereken puan 130 Puandır.
-- 3.Level ve Boss odası tasarımları 25'er puan. Oyun içi UI'Ların eklenmesi - Game Analitik Eklenmesi - Oyun İtemleri hazırlanışı ve yerleştirilmesi 15'er puan. Levellere Boss ve Npc yerleştirme - Dövüş mekanizmasının tamamlama -Mein menu ve Credit ekranlarının tamamlamaı 10'ar puan.Oyna Reklam Paneli Ekleme 5 puan.
+- 3.Level ve Boss odası tasarımları 25'er puan. Oyun içi UI'Ların eklenmesi -Oyun İtemleri hazırlanışı ve yerleştirilmesi 15'er puan. Levellere Boss ve Npc yerleştirme - Dövüş mekanizmasının tamamlama -Mein menu ve Credit ekranlarının tamamlamaı 15'ar puan.Oyna Reklam Paneli Ekleme 5 puan.
 # Daily Scrum: 3
 - Daily Scrum toplantıları Whatsapp ve Discordan yapılmaya devam edildi.
 - Daily Scrum dosyası :[Daily Srum 3.Sprint.docx](https://github.com/Nalo47/U-84/files/12065617/Daily.Srum.3.Sprint.docx)
 # Sprint board:
 - 3.Sprint board Ekran görüntüleri;
-![trello](https://github.com/Nalo47/U-84/assets/129545778/028c69fe-c1cd-44f8-b955-ad6194a82240)
+![trello 3](https://github.com/Nalo47/U-84/assets/129545778/8cc34adb-e938-4ad8-a1d3-4319ed3b7c70)
 - Ürün Durumu: Ekran görüntüleri:
 ![ss1](https://github.com/Nalo47/U-84/assets/129545778/47d58ed2-e545-4cc5-a510-9fc19231242b)
 ![ss2](https://github.com/Nalo47/U-84/assets/129545778/d4154d81-5cf2-4a47-8f70-7730b9b3c3a3)
