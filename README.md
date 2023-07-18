@@ -1,4 +1,4 @@
-![önemli](https://github.com/Nalo47/U-84/assets/129545778/87144c8f-2abd-41ea-8b9f-2ebab538ddb7)# Takım İsmi;
+# Takım İsmi;
 Makara Game Studios (Takım U-84) :)
 # Takım Üyeleri;
 - Asım Mert Şahner : Developer
